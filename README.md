@@ -2,13 +2,13 @@
 
 ## 0x00 Course Overview
 
-This course is taught by [Andrew Ng][1] and available to the public on [Coursera.org][2].
+This course is taught by [Andrew Ng][1], Stanford University, and available to the public on [Coursera.org][2].
 
 ## 0x01 Repo Structure
 
 ### Assignment
 
-Contains all the programming assignments writing in Octave or MAtlab.
+Contains all the programming assignments writing in Octave or Matlab.
 
 ### Lecture Notes
 
