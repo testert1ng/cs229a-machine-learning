@@ -6,15 +6,15 @@ This course is taught by [Andrew Ng][1], Stanford University, and available to t
 
 ## 0x01 Repo Structure
 
-### Assignment
+### assignment
 
 Contains all the programming assignments writing in Octave or Matlab.
 
-### Lecture Notes
+### lecture
 
 Contains all the lecture notes.
 
-### Notes
+### note
 
 Contains all learning notes learned in this course.
 
